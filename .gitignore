@@ -2,4 +2,5 @@
 /Testing-v1_15-20201102.pdf
 *.pdf
 ~*.docx
+/*.docx
 *.exe
